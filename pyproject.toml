@@ -21,6 +21,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/visiblent/example_package_visiblent"
-Repository = "https://github.com/visiblent/example_package_visiblent.git"
-Source = "https://github.com/visiblent/example_package_visiblent"
+Homepage = "https://github.com/asinedd/example-package-asinedd"
+Repository = "https://github.com/asinedd/example-package-asinedd.git"
+Source = "https://github.com/asinedd/example-package-asinedd"
